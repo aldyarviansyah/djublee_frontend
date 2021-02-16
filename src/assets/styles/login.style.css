@@ -1,0 +1,22 @@
+.login-container {
+  min-height: 100vh;
+}
+
+.login-container .ant-card-head-title {
+  color: #1890ff;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.login-container .ant-card-head {
+  border-bottom: none;
+}
+
+.login-container .ant-form-item {
+  margin-bottom: 10px;
+}
+
+.login-container .ant-card-body {
+  padding-top: 0;
+}
